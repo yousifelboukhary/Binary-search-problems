@@ -1,2 +1,2 @@
 # Binary-search-problems
-## This is my solutions to selected binary search problems 
+## My solutions to selected binary search problems 
