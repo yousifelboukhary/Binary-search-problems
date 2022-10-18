@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ##Given an array arr[]
 ##find the maximum j – i such that arr[j] > arr[i]
 
@@ -6,3 +7,7 @@
 # Space Complexity : O(N) =>
     using max_array
     
+=======
+## Given an array arr[]
+## find the maximum j – i such that arr[j] > arr[i]
+>>>>>>> 5196f5aced8dcd85c263e0645f9ea75f90476e5a
